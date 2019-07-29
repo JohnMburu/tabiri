@@ -19,10 +19,9 @@ Note: The application will Accept .csv, .xls, .xlsx file formats to be uploaded.
 The Upload will save the data in a temporaty_table that will be deleted imediately after prediction.
 
 # Back End
-
 #Services
 /upload
-This POST service will save data into the Temporary table ready for Predition
+This POST service will save data into the Temporary table ready for Predition.
 
 /displayupload
 This GET Service will return uploded data ready for prediction
