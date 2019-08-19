@@ -1,0 +1,17 @@
+
+@media all and (min-width: 480px) {
+  .center {
+    padding: 60px 0;
+  }
+
+  .center form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+
+  .select_style {
+    height:50px;
+    width: 500px;
+
+  }
+}

@@ -43,4 +43,3 @@ This service will send the data into the clustering model for prediction
 /regression_results
 
 /clustering_results
-
